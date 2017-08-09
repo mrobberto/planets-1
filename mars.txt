@@ -1,2 +1,3 @@
 Mars is the fourth planet from the sun.
 Mars has a longer "day" than the Earth.
+Mars has rovers going around
